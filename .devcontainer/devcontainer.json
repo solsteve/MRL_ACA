@@ -1,0 +1,8 @@
+{
+    "name":  "Actor Critic",
+    "dockerComposeFile": ["./docker-compose.yml"],
+    "service": "mrl_aca",
+    "workspaceFolder": "/workspace",
+    "remoteUser": "user",
+    "shutdownAction": "stopCompose"
+}
